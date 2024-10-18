@@ -1,0 +1,12 @@
+selenium
+psycopg2-binary
+webdriver-manager
+python-dotenv
+fastapi
+sqlalchemy
+uvicorn
+pydantic
+alembic
+openai
+langchain
+sentence-transformers
