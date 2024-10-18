@@ -1,6 +1,6 @@
-# Watch Data Scraper with FastAPI
+# Watch Data Analytics
 
-This project is a web scraping application that extracts watch data from Amazon, stores it in a PostgreSQL database, provides a RESTful API using FastAPI to interact with the data, and provides insights using RAG when user enters a question as a prompt. The application includes features such as search, filtering, sorting, and retrieving reviews for specific products.
+This project is an application that extracts watch data from Amazon, stores it in a PostgreSQL database, provides a RESTful API using FastAPI to interact with the data, and provides insights using RAG when user enters a question as a prompt. The application includes features such as search, filtering, sorting, and retrieving reviews for specific products.
 
 
 ## Features
