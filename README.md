@@ -48,6 +48,7 @@ This project is an application that extracts watch data from Amazon, stores it i
    POSTGRES_DB=watch_db
    POSTGRES_USER=your_username
    POSTGRES_PASSWORD=your_password
+   OpenAI_API_KEY=your_openai_api_key
 
 ### Running the application
 1. Run the scraper to populate the database with watch data:
